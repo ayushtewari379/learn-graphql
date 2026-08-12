@@ -1,0 +1,22 @@
+INSERT INTO book (title, author, price, pages) VALUES
+('The Great Gatsby', 'F. Scott Fitzgerald', 299.00, 180),
+('To Kill a Mockingbird', 'Harper Lee', 399.00, 281),
+('1984', 'George Orwell', 349.00, 328),
+('Pride and Prejudice', 'Jane Austen', 279.00, 432),
+('The Alchemist', 'Paulo Coelho', 299.00, 208),
+('Atomic Habits', 'James Clear', 499.00, 320),
+('Clean Code', 'Robert C. Martin', 699.00, 464),
+('Effective Java', 'Joshua Bloch', 799.00, 416),
+('Head First Java', 'Kathy Sierra', 649.00, 720),
+('Design Patterns', 'Erich Gamma', 899.00, 395),
+('The Pragmatic Programmer', 'Andrew Hunt', 749.00, 352),
+('Rich Dad Poor Dad', 'Robert Kiyosaki', 349.00, 336),
+('The Psychology of Money', 'Morgan Housel', 399.00, 256),
+('Deep Work', 'Cal Newport', 449.00, 304),
+('Ikigai', 'Hector Garcia', 299.00, 208),
+('Sapiens', 'Yuval Noah Harari', 599.00, 512),
+('The Hobbit', 'J.R.R. Tolkien', 449.00, 310),
+('Harry Potter and the Philosopher''s Stone', 'J.K. Rowling', 499.00, 223),
+('The Lord of the Rings', 'J.R.R. Tolkien', 899.00, 1178),
+('Java Concurrency in Practice', 'Brian Goetz', 899.00, 432);
+
